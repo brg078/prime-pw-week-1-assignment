@@ -25,6 +25,7 @@ git version 2.37.0 (Apple Git-136)
 To check uncommitted work/changes
 
 # 9 - What does the command 'git add .' do?
-Commits updated work (stages)
+Adds updated work (stages for commit)
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+Git commit -m "notes you want to make about the commit"
